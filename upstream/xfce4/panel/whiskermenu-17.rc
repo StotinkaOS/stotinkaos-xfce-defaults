@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop,sos-easy-install.desktop,yumex.desktop
-recent=yumex.desktop,xfce-ui-settings.desktop
+recent=
 button-title=Приложения
 button-icon=fedora-logo-icon
 button-single-row=false
