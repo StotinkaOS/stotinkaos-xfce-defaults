@@ -1,0 +1,2 @@
+StotinkaOS Xfce defaults configs
+
