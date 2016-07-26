@@ -3,7 +3,7 @@
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
     <property name="ThemeName" type="empty"/>
-    <property name="IconThemeName" type="string" value="Moka"/>
+    <property name="IconThemeName" type="string" value="Faba-Mono-Dark"/>
     <property name="DoubleClickTime" type="empty"/>
     <property name="DoubleClickDistance" type="empty"/>
     <property name="DndDragThreshold" type="empty"/>
@@ -31,7 +31,7 @@
     <property name="MenuImages" type="empty"/>
     <property name="ButtonImages" type="empty"/>
     <property name="MenuBarAccel" type="empty"/>
-    <property name="CursorThemeName" type="empty"/>
+    <property name="CursorThemeName" type="Adwaita"/>
     <property name="CursorThemeSize" type="empty"/>
     <property name="DecorationLayout" type="empty"/>
   </property>
